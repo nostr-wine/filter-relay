@@ -47,12 +47,12 @@ These are the relays we are currently broadcasting events to in real time (if yo
 
 - wss://relay.damus.io
 - wss://nos.lol
-- wss://relay.current.fyi
 - wss://nostr.bitcoiner.social
 - wss://nostr.oxtr.dev
 - wss://relay.nostr.bg
+- ~~wss://relay.current.fyi~~ (currently disabled due to connectivity issues)
 
-Last updated: February 9, 2023
+Last updated: February 11, 2023
 
 ##
 
