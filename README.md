@@ -50,7 +50,10 @@ These are the relays we are currently broadcasting events to in real time (if yo
 - wss://nostr.bitcoiner.social
 - wss://nostr.oxtr.dev
 - wss://relay.nostr.bg
-- ~~wss://relay.current.fyi~~ (currently disabled due to connectivity issues)
+- wss://relay.current.fyi
+- wss://nostr.fmt.wiz.biz
+- wss://nostr.mom
+- wss://nostr.zebedee.cloud
 
 Last updated: February 11, 2023
 
