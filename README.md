@@ -48,7 +48,7 @@ These are the relays we are currently broadcasting events to in real time (if yo
 - wss://relay.damus.io
 - wss://nos.lol
 - wss://nostr.bitcoiner.social
-- ~~wss://nostr.oxtr.dev~~ (currently unreachable)
+- wss://nostr.oxtr.dev
 - wss://relay.nostr.bg
 - wss://relay.current.fyi
 - wss://nostr.fmt.wiz.biz
