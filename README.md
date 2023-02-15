@@ -59,4 +59,6 @@ Last updated: February 14, 2023
 
 ##
 
-nostr.wine and filter.nostr.wine were created by [@Mazin](https://snort.social/p/npub18kzz4lkdtc5n729kvfunxuz287uvu9f64ywhjz43ra482t2y5sks0mx5sz) and [@Katie](https://snort.social/p/npub1qlkwmzmrhzpuak7c2g9akvcrh7wzkd7zc7fpefw9najwpau662nqealf5y)
+nostr.wine and filter.nostr.wine were created by [@Katie](https://snort.social/p/npub1qlkwmzmrhzpuak7c2g9akvcrh7wzkd7zc7fpefw9najwpau662nqealf5y) and [@Mazin](https://snort.social/p/npub18kzz4lkdtc5n729kvfunxuz287uvu9f64ywhjz43ra482t2y5sks0mx5sz)
+
+Our aggregator relay behind filter.nostr.wine is running [Strfry](https://github.com/hoytech/strfry) created by [@Doug Hoyte](https://snort.social/p/npub1yxprsscnjw2e6myxz73mmzvnqw5kvzd5ffjya9ecjypc5l0gvgksh8qud4)
