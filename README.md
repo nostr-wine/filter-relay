@@ -47,7 +47,7 @@ These are the relays we are currently broadcasting events to in real time (if yo
 
 - wss://relay.damus.io
 - wss://nos.lol
-- wss://nostr.bitcoiner.social
+- ~~wss://nostr.bitcoiner.social~~ (DNS Failure)
 - wss://nostr.oxtr.dev
 - wss://relay.nostr.bg
 - wss://relay.current.fyi
@@ -55,7 +55,7 @@ These are the relays we are currently broadcasting events to in real time (if yo
 - wss://nostr.mom
 - wss://nostr.zebedee.cloud
 
-Last updated: February 15, 2023
+Last updated: February 17, 2023
 
 ##
 
