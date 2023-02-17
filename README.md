@@ -55,9 +55,6 @@ These are the relays we are currently broadcasting events to in real time (if yo
 - wss://nostr.zebedee.cloud
 - wss://no.str.cr
 
-
-- ~~wss://nostr.bitcoiner.social~~ (changed to paid relay and switched domain. permanently removed)
-
 Last updated: February 17, 2023
 
 ##
