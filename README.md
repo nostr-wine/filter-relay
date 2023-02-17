@@ -45,9 +45,9 @@ We do not plan on adding paid relays (besides eden and orangepill as they were i
 
 These are the relays we are currently broadcasting events to in real time (if you include ?broadcast=true at the end of the filter.nostr.wine relay after your npub).
 
-- wss://relay.damus.io
+- ~~wss://relay.damus.io~~ (down for maintenance)
 - wss://nos.lol
-- ~~wss://nostr.bitcoiner.social~~ (DNS Failure)
+- ~~wss://nostr.bitcoiner.social~~ (DNS failure)
 - wss://nostr.oxtr.dev
 - wss://relay.nostr.bg
 - wss://relay.current.fyi
