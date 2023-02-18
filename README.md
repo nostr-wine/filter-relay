@@ -36,8 +36,9 @@ These are the relays that we are currently aggregating events from in real time.
 - wss://nostr.oxtr.dev
 - wss://relay.nostr.bg
 - wss://no.str.cr
+- wss://nostr.mom
 
-Last updated: February 17, 2023
+Last updated: February 18, 2023
 
 We do not plan on adding paid relays (besides eden and orangepill as they were included by default on some clients) to this list. We like to think of those as their own little place that you can choose to be apart of or not individually. 
 
