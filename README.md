@@ -50,8 +50,8 @@ These are the relays we are currently broadcasting events to in real time (if yo
 - wss://nos.lol
 - wss://nostr.oxtr.dev
 - wss://relay.nostr.bg
-- wss://relay.current.fyi
-- ~~wss://nostr.fmt.wiz.biz~~ (currently unavailable)
+- ~~wss://relay.current.fyi~~ (currently unavailable)
+- wss://nostr.fmt.wiz.biz 
 - wss://nostr.mom
 - wss://nostr.zebedee.cloud
 - wss://no.str.cr
