@@ -46,7 +46,7 @@ We do not plan on adding paid relays (besides eden and orangepill as they were i
 
 These are the relays we are currently broadcasting events to in real time (if you include ?broadcast=true at the end of the filter.nostr.wine relay after your npub).
 
-- ~~wss://relay.damus.io~~ (currently unavailable)
+- wss://relay.damus.io
 - wss://nos.lol
 - wss://nostr.oxtr.dev
 - wss://relay.nostr.bg
@@ -56,7 +56,7 @@ These are the relays we are currently broadcasting events to in real time (if yo
 - wss://nostr.zebedee.cloud
 - wss://no.str.cr
 
-Last updated: February 21, 2023
+Last updated: February 24, 2023
 
 ##
 
