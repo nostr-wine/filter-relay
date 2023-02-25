@@ -31,14 +31,14 @@ These are the relays that we are currently aggregating events from in real time.
 - wss://eden.nostr.land
 - wss://brb.io
 - wss://nos.lol
-- wss://relay.current.fyi
 - wss://relay.orangepill.dev
 - wss://nostr.oxtr.dev
 - wss://relay.nostr.bg
 - wss://no.str.cr
 - wss://nostr.mom
+- wss://relay.plebstr.com
 
-Last updated: February 18, 2023
+Last updated: February 25, 2023
 
 We do not plan on adding paid relays (besides eden and orangepill as they were included by default on some clients) to this list. We like to think of those as their own little place that you can choose to be apart of or not individually. 
 
@@ -50,13 +50,13 @@ These are the relays we are currently broadcasting events to in real time (if yo
 - wss://nos.lol
 - wss://nostr.oxtr.dev
 - wss://relay.nostr.bg
-- ~~wss://relay.current.fyi~~ (currently unavailable)
 - wss://nostr.fmt.wiz.biz 
 - wss://nostr.mom
 - wss://nostr.zebedee.cloud
 - wss://no.str.cr
+- wss://relay.plebstr.com
 
-Last updated: February 24, 2023
+Last updated: February 25, 2023
 
 ##
 
