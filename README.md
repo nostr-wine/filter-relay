@@ -32,7 +32,7 @@ These are the relays that we are currently aggregating events from in real time.
 - wss://brb.io
 - wss://nos.lol
 - wss://relay.orangepill.dev
-- wss://nostr.oxtr.dev
+- ~~wss://nostr.oxtr.dev~~ (down for maintenance) 
 - wss://relay.nostr.bg
 - wss://no.str.cr
 - wss://nostr.mom
@@ -48,7 +48,7 @@ These are the relays we are currently broadcasting events to in real time (if yo
 
 - wss://relay.damus.io
 - wss://nos.lol
-- wss://nostr.oxtr.dev
+- ~~wss://nostr.oxtr.dev~~ (down for maintenance)
 - wss://relay.nostr.bg
 - wss://nostr.fmt.wiz.biz 
 - wss://nostr.mom
