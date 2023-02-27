@@ -51,7 +51,6 @@ These are the relays we are currently broadcasting events to in real time (if yo
 - wss://relay.damus.io
 - wss://nos.lol
 - wss://relay.snort.social
-- wss://relay.current.fyi
 - wss://nostr.oxtr.dev
 - wss://relay.nostr.bg
 - wss://nostr.fmt.wiz.biz 
