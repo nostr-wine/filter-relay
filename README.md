@@ -28,19 +28,21 @@ If you choose to include the ?broadcast=true parameter at the end the relay URL 
 These are the relays that we are currently aggregating events from in real time.
 
 - wss://relay.damus.io
-- wss://eden.nostr.land
-- wss://brb.io
 - wss://nos.lol
-- wss://relay.orangepill.dev
-- ~~wss://nostr.oxtr.dev~~ (down for maintenance) 
+- wss://relay.current.fyi
+- wss://brb.io
+- wss://eden.nostr.land
+- wss://nostr.oxtr.dev
 - wss://relay.nostr.bg
 - wss://no.str.cr
 - wss://nostr.mom
+- wss://nostr.zebedee.cloud
 - wss://relay.plebstr.com
+- wss://offchain.pub
 
-Last updated: February 25, 2023
+Last updated: February 27, 2023
 
-We do not plan on adding paid relays (besides eden and orangepill as they were included by default on some clients) to this list. We like to think of those as their own little place that you can choose to be apart of or not individually. 
+We do not plan on adding paid relays (besides eden as it was included by default on some clients) to this list. We like to think of those as their own little place that you can choose to be apart of or not individually. 
 
 ### Public Relays Broadcast List
 
@@ -48,15 +50,18 @@ These are the relays we are currently broadcasting events to in real time (if yo
 
 - wss://relay.damus.io
 - wss://nos.lol
-- ~~wss://nostr.oxtr.dev~~ (down for maintenance)
+- wss://relay.snort.social
+- wss://relay.current.fyi
+- wss://nostr.oxtr.dev
 - wss://relay.nostr.bg
 - wss://nostr.fmt.wiz.biz 
 - wss://nostr.mom
 - wss://nostr.zebedee.cloud
 - wss://no.str.cr
 - wss://relay.plebstr.com
+- wss://offchain.pub
 
-Last updated: February 25, 2023
+Last updated: February 27, 2023
 
 ##
 
