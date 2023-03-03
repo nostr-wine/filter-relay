@@ -31,7 +31,7 @@ These are the relays that we are currently aggregating events from in real time.
 - wss://nos.lol
 - wss://relay.current.fyi
 - wss://brb.io
-- wss://eden.nostr.land
+- ~~wss://eden.nostr.land~~ (removed due to duplicate message volume)
 - wss://nostr.oxtr.dev
 - wss://relay.nostr.bg
 - wss://no.str.cr
