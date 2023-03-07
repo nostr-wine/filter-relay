@@ -36,7 +36,7 @@ These are the relays that we are currently aggregating events from in real time.
 - wss://no.str.cr
 - wss://nostr.mom
 - wss://nostr.zebedee.cloud
-- wss://relay.plebstr.com
+- ~~wss://relay.plebstr.com~~ (temporarily offline)
 - wss://offchain.pub
 
 Last updated: March 3, 2023
@@ -56,7 +56,7 @@ These are the relays we are currently broadcasting events to in real time (if yo
 - wss://nostr.mom
 - wss://nostr.zebedee.cloud
 - wss://no.str.cr
-- wss://relay.plebstr.com
+- ~~wss://relay.plebstr.com~~ (temporarily offline)
 - wss://offchain.pub
 
 Last updated: February 27, 2023
