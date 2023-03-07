@@ -39,7 +39,7 @@ These are the relays that we are currently aggregating events from in real time.
 - ~~wss://relay.plebstr.com~~ (temporarily offline)
 - wss://offchain.pub
 
-Last updated: March 3, 2023
+Last updated: March 6, 2023
 
 We do not plan on adding paid relays. We like to think of those as their own little place that you can choose to be apart of or not individually. 
 
@@ -59,7 +59,7 @@ These are the relays we are currently broadcasting events to in real time (if yo
 - ~~wss://relay.plebstr.com~~ (temporarily offline)
 - wss://offchain.pub
 
-Last updated: February 27, 2023
+Last updated: March 6, 2023
 
 ##
 
