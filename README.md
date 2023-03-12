@@ -51,16 +51,15 @@ These are the relays we are currently broadcasting events to in real time (if yo
 - wss://nos.lol
 - wss://relay.snort.social
 - wss://relay.current.fyi
-- wss://nostr.oxtr.dev
 - wss://relay.nostr.bg
 - wss://nostr.zebedee.cloud
 - wss://no.str.cr
 - wss://relay.plebstr.com 
 - wss://offchain.pub
-- wss://nostr.bongbong.com
+- wss://nostr.fmt.wiz.biz
 - wss://spore.ws
 
-Last updated: March 11, 2023
+Last updated: March 12, 2023
 
 ##
 
