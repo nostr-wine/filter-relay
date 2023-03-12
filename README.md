@@ -53,7 +53,6 @@ These are the relays we are currently broadcasting events to in real time (if yo
 - wss://relay.current.fyi
 - wss://nostr.oxtr.dev
 - wss://relay.nostr.bg
-- wss://nostr.mom
 - wss://nostr.zebedee.cloud
 - wss://no.str.cr
 - wss://relay.plebstr.com 
