@@ -31,7 +31,7 @@ These are the relays that we are currently aggregating events from in real time.
 - wss://nos.lol
 - wss://relay.current.fyi
 - wss://brb.io
-- ~~wss://nostr.oxtr.dev~~ (unreliable for last several days)
+- wss://nostr.oxtr.dev
 - wss://relay.nostr.bg
 - wss://no.str.cr
 - wss://nostr.mom
@@ -39,7 +39,7 @@ These are the relays that we are currently aggregating events from in real time.
 - wss://relay.plebstr.com
 - wss://offchain.pub
 
-Last updated: March 12, 2023
+Last updated: March 16, 2023
 
 We do not plan on adding paid relays. We like to think of those as their own little place that you can choose to be apart of or not individually. 
 
