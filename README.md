@@ -35,11 +35,11 @@ These are the relays that we are currently aggregating events from in real time.
 - wss://relay.nostr.bg
 - wss://no.str.cr
 - wss://nostr.mom
-- wss://nostr.zebedee.cloud
+- wss://nostr.zebedee.cloud (connection unreliable)
 - wss://relay.plebstr.com
 - wss://offchain.pub
 
-Last updated: March 18, 2023
+Last updated: March 20, 2023
 
 We do not plan on adding paid relays. We like to think of those as their own little place that you can choose to be apart of or not individually. 
 
