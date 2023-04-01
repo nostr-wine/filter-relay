@@ -33,13 +33,13 @@ These are the relays that we are currently aggregating events from in real time.
 - wss://brb.io (connection unreliable)
 - wss://nostr.oxtr.dev
 - wss://relay.nostr.bg
-- wss://no.str.cr
+- wss://no.str.cr (currently unavailable)
 - wss://nostr.mom
 - wss://nostr.zebedee.cloud (connection unreliable)
 - wss://relay.plebstr.com
 - wss://offchain.pub
 
-Last updated: March 20, 2023
+Last updated: April 1, 2023
 
 We do not plan on adding paid relays. We like to think of those as their own little place that you can choose to be apart of or not individually. 
 
@@ -53,13 +53,13 @@ These are the relays we are currently broadcasting events to in real time (if yo
 - wss://relay.current.fyi (connection unreliable)
 - wss://relay.nostr.bg
 - wss://nostr.zebedee.cloud
-- wss://no.str.cr
+- wss://no.str.cr (currently unavailable)
 - wss://relay.plebstr.com 
 - wss://offchain.pub
 - wss://spore.ws
 - wss://nostr21.com
 
-Last updated: March 12, 2023
+Last updated: April 1, 2023
 
 ##
 
