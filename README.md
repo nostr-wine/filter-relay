@@ -4,7 +4,7 @@ Last Updated: April 1, 2023
 
 ## Subscription Required
 
-The filter.nostr.wine relay now requires a monthly subscription of 10,000 sats per month (with substantial discounts for larger purchases). New users who sign up to nostr.wine have 1 month of free access included in their purchase. Existing nostr.wine users can add time to their filter.nostr.wine account by visiting https://nostr.wine/reload. All existing users as of April 1, 2023 will have continued access till May 1, 2023 without any additional payment. 
+The filter.nostr.wine relay now requires a monthly subscription of 10,000 sats per month (with substantial discounts for larger purchases). New users who sign up to nostr.wine have 1 month of access included in their purchase. Existing nostr.wine users can add time to their filter.nostr.wine account by visiting https://nostr.wine/reload. All existing users as of April 1, 2023 will have continued access till May 1, 2023 without any additional payment. 
 
 ## Quickstart
 
