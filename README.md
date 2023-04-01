@@ -33,7 +33,7 @@ These are the relays that we are currently aggregating events from in real time.
 - wss://brb.io (connection unreliable)
 - wss://nostr.oxtr.dev
 - wss://relay.nostr.bg
-- wss://no.str.cr (currently unavailable)
+- wss://no.str.cr
 - wss://nostr.mom
 - wss://nostr.zebedee.cloud (connection unreliable)
 - wss://relay.plebstr.com
@@ -52,7 +52,7 @@ These are the relays we are currently broadcasting events to in real time (if yo
 - wss://relay.snort.social
 - wss://relay.current.fyi (connection unreliable)
 - wss://relay.nostr.bg
-- wss://nostr.zebedee.cloud
+- wss://nostr.zebedee.cloud 
 - wss://no.str.cr (currently unavailable)
 - wss://relay.plebstr.com 
 - wss://offchain.pub
