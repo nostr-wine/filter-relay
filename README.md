@@ -42,8 +42,7 @@ These are the relays that we are currently aggregating events from in real time.
 - wss://relay.damus.io
 - wss://nos.lol
 - wss://relay.snort.social
-- wss://relay.current.fyi (connection unreliable)
-- wss://brb.io (down)
+- wss://nostr1.current.fyi
 - wss://nostr.oxtr.dev
 - wss://relay.nostr.bg
 - wss://no.str.cr
@@ -63,7 +62,7 @@ These are the relays we are currently broadcasting events to in real time (if yo
 - wss://relay.damus.io
 - wss://nos.lol
 - wss://relay.snort.social
-- wss://relay.current.fyi (connection unreliable)
+- wss://nostr1.current.fyi
 - wss://relay.nostr.bg
 - wss://nostr.zebedee.cloud 
 - wss://no.str.cr
