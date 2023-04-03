@@ -1,5 +1,5 @@
 # filter.nostr.wine Relay Readme
-Last Updated: April 2, 2023
+Last Updated: April 3, 2023
 
 
 ## Subscription Required
@@ -29,25 +29,32 @@ filter.nostr.wine sits in front of our private aggregator relay that constanly p
 
 If you choose to include the ?broadcast=true parameter at the end the relay URL after your npub, you will also be broadcasting to several large public relays when you send any events while connected to filter.nostr.wine. The list of public relays updates frequently based on connectivity. We plan to eventually publish live status updates on a website so you can see what is currently online and writing. For now, I will include and update the relays we read from and broadcast to below. 
 
+## NIP-42 and NIP-50
+
+We now support both NIP-42 (client authentication) and NIP-50 (search) on filter.nostr.wine. If your client supports NIP-42 you can connect directly to wss://filter.nostr.wine without using the /npub addition. Please note you still must include ?broadcast=true if you wish to broadcast.
+
+Keyword search is also available if your client supports NIP-50. No user configuration or changes are required.
+
 ### Public Relays Read Filter List
 
 These are the relays that we are currently aggregating events from in real time.
 
 - wss://relay.damus.io
 - wss://nos.lol
-- wss://relay.current.fyi
-- wss://brb.io (connection unreliable)
+- wss://relay.snort.social
+- wss://relay.current.fyi (connection unreliable)
+- wss://brb.io (down)
 - wss://nostr.oxtr.dev
 - wss://relay.nostr.bg
 - wss://no.str.cr
 - wss://nostr.mom
-- wss://nostr.zebedee.cloud (connection unreliable)
 - wss://relay.plebstr.com
 - wss://offchain.pub
+- wss://nostr.bitcoiner.social
 
-Last updated: April 1, 2023
+Last updated: April 3, 2023
 
-We do not plan on adding paid relays. We like to think of those as their own little place that you can choose to be apart of or not individually. 
+We do not plan on adding paid relays (besides eden). We like to think of those as their own little place that you can choose to be apart of or not individually. 
 
 ### Public Relays Broadcast List
 
@@ -59,13 +66,14 @@ These are the relays we are currently broadcasting events to in real time (if yo
 - wss://relay.current.fyi (connection unreliable)
 - wss://relay.nostr.bg
 - wss://nostr.zebedee.cloud 
-- wss://no.str.cr (currently unavailable)
+- wss://no.str.cr
 - wss://relay.plebstr.com 
 - wss://offchain.pub
 - wss://spore.ws
 - wss://nostr21.com
+- wss://nostr.bitcoiner.social
 
-Last updated: April 1, 2023
+Last updated: April 3, 2023
 
 ##
 
