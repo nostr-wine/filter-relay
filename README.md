@@ -54,7 +54,7 @@ These are the relays that we are currently aggregating events from in real time.
 
 Last updated: April 3, 2023
 
-We do not plan on adding paid relays (besides eden). We like to think of those as their own little place that you can choose to be apart of or not individually. 
+We do not plan on adding paid relays. We like to think of those as their own little place that you can choose to be apart of or not individually. 
 
 ### Public Relays Broadcast List
 
