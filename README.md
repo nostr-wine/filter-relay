@@ -64,7 +64,6 @@ These are the relays we are currently broadcasting events to in real time (if yo
 - wss://relay.snort.social
 - wss://nostr1.current.fyi
 - wss://relay.nostr.bg
-- wss://nostr.zebedee.cloud 
 - wss://no.str.cr
 - wss://relay.plebstr.com 
 - wss://offchain.pub
