@@ -1,5 +1,5 @@
 # filter.nostr.wine Relay Readme
-Last Updated: April 3, 2023
+Last Updated: April 4, 2023
 
 
 ## Subscription Required
@@ -15,6 +15,8 @@ If you already know what this relay does and you're ready to connect here are th
 3. Next, add wss://filter.nostr.wine/REPLACE_WITH_YOUR_NPUB?broadcast=true to your relays (broadcast paremeter is optional and defaults to false)
 4. You're done! Play around with adding/removing various public relays to find your ideal global feed.
 
+UPDATE: If your client supports NIP-42 (AUTH) you can now connect directly to wss://filter.nostr.wine without your npub. The same parameters (broadcast and global) can still be used. 
+
 ***IMPORTANT: you must replace REPLACE_WITH_YOUR_NPUB with your nostr npub (not hex) for the relay to accept you.***
 
 ## What is it and why should I use it?
@@ -28,6 +30,10 @@ Reduced reach is another problem. If you are no longer connected to some of the 
 filter.nostr.wine sits in front of our private aggregator relay that constanly pulls new content from many of the largest public relays. When you connect to our relay, we gather all of your follows as well as any account they follow and filter your global event requests to include only content from your web of contacts. When your client requests a note, a profile, available direct messages, or a channel, we pull all of the available related content from our aggregator (unfiltered). This allows you to load profiles and notes of users who do not share relays with you, receive DMs from those same users, as well as read all replies on a given note.
 
 If you choose to include the ?broadcast=true parameter at the end the relay URL after your npub, you will also be broadcasting to several large public relays when you send any events while connected to filter.nostr.wine. The list of public relays updates frequently based on connectivity. We plan to eventually publish live status updates on a website so you can see what is currently online and writing. For now, I will include and update the relays we read from and broadcast to below. 
+
+## New Global Views
+
+As of April 4, 2023 we now support a new parameter ?global=all (if missing it defaults to follows+follows) at the end of your relay URL. This will remove the follows+follows filter from your global view and show you all of the events we have aggregated using only a very basic spam filter. This view is considered experimental and without any guarantees at this time. 
 
 ## NIP-42 and NIP-50
 
