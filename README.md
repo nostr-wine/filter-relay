@@ -33,7 +33,7 @@ If you choose to include the ?broadcast=true parameter at the end the relay URL 
 
 ## New Global Views
 
-As of April 4, 2023 we now support a new parameter ?global=all (if missing it defaults to follows+follows) at the end of your relay URL. This will remove the follows+follows filter from your global view and show you all of the events we have aggregated using only a very basic spam filter. This view is considered experimental and without any guarantees at this time. 
+As of April 4, 2023 we now support a new parameter global=all (if missing it defaults to follows+follows) at the end of your relay URL. This will remove the follows+follows filter from your global view and show you all of the events we have aggregated using only a very basic spam filter. This view is considered experimental and without any guarantees at this time. Example: wss://filter.nostr.wine/YOUR_NPUB_HERE?broadcast=true&global=all
 
 ## NIP-42 and NIP-50
 
