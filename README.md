@@ -13,9 +13,10 @@ If you already know what this relay does and you're ready to connect here are th
 1. Go to https://nostr.wine and sign up for the paid relay by entering your pubkey and paying the invoice. You ***MUST*** be a paid nostr.wine member to access filter.nostr.wine. 
 2. Once admitted, add wss://nostr.wine to your relays. This relay is seperate and does not share events with the filter relay.
 3. Next, add wss://filter.nostr.wine/REPLACE_WITH_YOUR_NPUB?broadcast=true to your relays (broadcast paremeter is optional and defaults to false)
+4. You can optionally add the global=all parameter. See [New Global Views](#new-global-views) for further details.
 4. You're done! Play around with adding/removing various public relays to find your ideal global feed.
 
-UPDATE: If your client supports NIP-42 (AUTH) you can now connect directly to wss://filter.nostr.wine without your npub. The same parameters (broadcast and global) can still be used. 
+UPDATE: If your client supports NIP-42 (AUTH) you can now connect directly to wss://filter.nostr.wine without your npub. The same parameters (broadcast and global) can still be used. See [NIP-42 and NIP-50](#nip-42-and-nip-50) for more information.
 
 ***IMPORTANT: you must replace REPLACE_WITH_YOUR_NPUB with your nostr npub (not hex) for the relay to accept you.***
 
