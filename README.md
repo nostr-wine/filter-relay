@@ -1,5 +1,5 @@
 # filter.nostr.wine Relay Readme
-Last Updated: April 4, 2023
+Last Updated: April 11, 2023
 
 
 ## Subscription Required
@@ -60,7 +60,7 @@ These are the relays that we are currently aggregating events from in real time.
 - wss://spore.ws
 - wss://nostr21.com
 
-Last updated: April 10, 2023
+Last updated: April 11, 2023
 
 We do not plan on adding paid relays. We like to think of those as their own little place that you can choose to be apart of or not individually. 
 
@@ -81,7 +81,7 @@ These are the relays we are currently broadcasting events to in real time (if yo
 - wss://nostr21.com
 - wss://nostr.bitcoiner.social
 
-Last updated: April 10, 2023
+Last updated: April 11, 2023
 
 ##
 
