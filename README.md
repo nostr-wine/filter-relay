@@ -50,13 +50,13 @@ These are the relays that we are currently aggregating events from in real time.
 - wss://nos.lol
 - wss://relay.snort.social
 - wss://nostr1.current.fyi
-- wss://nostr.oxtr.dev (Currently Down)
+- wss://nostr.oxtr.dev
 - wss://relay.nostr.bg
 - wss://no.str.cr
 - wss://nostr.mom
 - wss://relay.plebstr.com
 - wss://offchain.pub
-- wss://nostr.bitcoiner.social (Currently Down)
+- wss://nostr.bitcoiner.social
 - wss://spore.ws
 - wss://nostr21.com
 
@@ -72,14 +72,14 @@ These are the relays we are currently broadcasting events to in real time (if yo
 - wss://nos.lol
 - wss://relay.snort.social
 - wss://nostr1.current.fyi
-- wss://nostr.oxtr.dev (Currently Down)
+- wss://nostr.oxtr.dev
 - wss://relay.nostr.bg
 - wss://no.str.cr
 - wss://relay.plebstr.com 
 - wss://offchain.pub
 - wss://spore.ws
 - wss://nostr21.com
-- wss://nostr.bitcoiner.social (Currently Down)
+- wss://nostr.bitcoiner.social
 
 Last updated: April 10, 2023
 
