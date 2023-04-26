@@ -1,5 +1,5 @@
 # filter.nostr.wine Relay Readme
-Last Updated: April 16, 2023
+Last Updated: April 26, 2023
 
 
 ## Subscription Required
@@ -16,7 +16,7 @@ If you already know what this relay does and you're ready to connect here are th
 4. You can optionally add the global=all parameter. See [New Global Views](#new-global-views) for further details.
 4. You're done! Play around with adding/removing various public relays to find your ideal global feed.
 
-UPDATE: If your client supports NIP-42 (AUTH) you can now connect directly to wss://filter.nostr.wine without your npub. The same parameters (broadcast and global) can still be used. See [NIP-42 and NIP-50](#nip-42-and-nip-50) for more information.
+UPDATE: If your client supports NIP-42 (AUTH) you can now connect directly to wss://filter.nostr.wine without your npub. The same parameters (broadcast and global) can still be used however <ins>broadcast will default to TRUE instead of FALSE</ins>. See [NIP-42 and NIP-50](#nip-42-and-nip-50) for more information.
 
 ***IMPORTANT: you must replace REPLACE_WITH_YOUR_NPUB with your nostr npub (not hex) for the relay to accept you.***
 
@@ -38,7 +38,7 @@ As of April 4, 2023 we now support a new parameter global=all (if missing it def
 
 ## NIP-42 and NIP-50
 
-We now support both NIP-42 (client authentication) and NIP-50 (search) on filter.nostr.wine. If your client supports NIP-42 you can connect directly to wss://filter.nostr.wine without using the /npub addition. Please note you still must include ?broadcast=true if you wish to broadcast.
+We now support both NIP-42 (client authentication) and NIP-50 (search) on filter.nostr.wine. If your client supports NIP-42 you can connect directly to wss://filter.nostr.wine without using the /npub addition. Please note the broadcast parameter will be set to TRUE by default when connecting directly without your npub.
 
 Keyword search is also available if your client supports NIP-50. No user configuration or changes are required.
 
