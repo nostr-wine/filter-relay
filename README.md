@@ -12,7 +12,7 @@ If you already know what this relay does and you're ready to connect here are th
 
 1. Go to https://nostr.wine and sign up for the paid relay by entering your pubkey and paying the invoice. You ***MUST*** be a paid nostr.wine member to access filter.nostr.wine. 
 2. Once admitted, add wss://nostr.wine to your relays. This relay is seperate and does not share events with the filter relay.
-3. Next, add wss://filter.nostr.wine/REPLACE_WITH_YOUR_NPUB?broadcast=true to your relays (broadcast paremeter is optional and defaults to false)
+3. Next, add wss://filter.nostr.wine/REPLACE_WITH_YOUR_NPUB?broadcast=true to your relays (broadcast parameter is optional and defaults to false)
 4. You can optionally add the global=all parameter. See [New Global Views](#new-global-views) for further details.
 4. You're done! Play around with adding/removing various public relays to find your ideal global feed.
 
@@ -28,7 +28,7 @@ Reduced reach is another problem. If you are no longer connected to some of the 
 
 ## How does it work?
 
-filter.nostr.wine sits in front of our private aggregator relay that constanly pulls new content from many of the largest public relays. When you connect to our relay, we gather all of your follows as well as any account they follow and filter your global event requests to include only content from your web of contacts. When your client requests a note, a profile, available direct messages, or a channel, we pull all of the available related content from our aggregator (unfiltered). This allows you to load profiles and notes of users who do not share relays with you, receive DMs from those same users, as well as read all replies on a given note.
+filter.nostr.wine sits in front of our private aggregator relay that continuously pulls new content from many of the largest public relays. When you connect to our relay, we gather all of your follows as well as any account they follow and filter your global event requests to include only content from your web of contacts. When your client requests a note, a profile, available direct messages, or a channel, we pull all of the available related content from our aggregator (unfiltered). This allows you to load profiles and notes of users who do not share relays with you, receive DMs from those same users, as well as read all replies on a given note.
 
 If you choose to include the ?broadcast=true parameter at the end the relay URL after your npub, you will also be broadcasting to several large public relays when you send any events while connected to filter.nostr.wine. The list of public relays updates frequently based on connectivity. We plan to eventually publish live status updates on a website so you can see what is currently online and writing. For now, I will include and update the relays we read from and broadcast to below. 
 
