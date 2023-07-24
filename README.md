@@ -61,7 +61,7 @@ These are the relays that we are currently aggregating events from in real time.
 - wss://nostr21.com
 - wss://nostr.bongbong.com
 
-Last updated: April 26, 2023
+Last updated: July 24, 2023
 
 We do not plan on adding paid relays. We like to think of those as their own little place that you can choose to be apart of or not individually. 
 
