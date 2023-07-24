@@ -1,5 +1,5 @@
 # filter.nostr.wine Relay Readme
-Last Updated: July 23, 2023
+Last Updated: July 24, 2023
 
 
 ## Subscription Required
@@ -52,7 +52,7 @@ These are the relays that we are currently aggregating events from in real time.
 - wss://nostr1.current.fyi
 - wss://nostr-pub.wellorder.net
 - wss://relay.nostr.bg
-- wss://no.str.cr (currently down)
+- wss://no.str.cr
 - wss://nostr.mom
 - wss://relay.plebstr.com
 - wss://offchain.pub
@@ -74,7 +74,7 @@ These are the relays we are currently broadcasting events to in real time (if yo
 - wss://relay.snort.social
 - wss://nostr1.current.fyi
 - wss://relay.nostr.bg
-- wss://no.str.cr (currently down)
+- wss://no.str.cr
 - wss://relay.plebstr.com 
 - wss://offchain.pub
 - wss://spore.ws
@@ -82,7 +82,7 @@ These are the relays we are currently broadcasting events to in real time (if yo
 - wss://nostr.bitcoiner.social
 - wss://nostr.bongbong.com
 
-Last updated: July 23, 2023
+Last updated: July 24, 2023
 
 ##
 
