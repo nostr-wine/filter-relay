@@ -1,10 +1,10 @@
 # filter.nostr.wine Relay Readme
-Last Updated: July 26, 2023
+Last Updated: August 30, 2023
 
 
 ## Subscription Required
 
-The filter.nostr.wine relay now requires a monthly subscription of 10,000 sats per month (with substantial discounts for larger purchases). New users who sign up to nostr.wine have 1 month of access included in their purchase. Existing nostr.wine users can add time to their filter.nostr.wine account by visiting https://nostr.wine/add-time. All existing users as of April 1, 2023 will have continued access till May 1, 2023 without any additional payment. 
+The filter.nostr.wine relay now requires a monthly subscription of 10,000 sats per month (with substantial discounts for larger purchases). New users who sign up to nostr.wine have 1 month of access included in their purchase. Existing nostr.wine users can add time to their filter.nostr.wine account by visiting https://nostr.wine/add-time.
 
 ## Quickstart
 
@@ -52,15 +52,16 @@ These are the relays that we are currently aggregating events from in real time.
 - wss://nostr1.current.fyi
 - wss://nostr-pub.wellorder.net
 - wss://relay.nostr.bg
-- wss://no.str.cr
+- wss://no.str.cr (down since 8/18)
 - wss://nostr.mom
 - wss://relay.plebstr.com
 - wss://offchain.pub
 - wss://nostr.bitcoiner.social
 - wss://spore.ws
 - wss://nostr21.com
+- wss://nostr.bongbong.com
 
-Last updated: July 26, 2023
+Last updated: August 30, 2023
 
 We do not plan on adding paid relays. We like to think of those as their own little place that you can choose to be apart of or not individually. 
 
@@ -73,7 +74,7 @@ These are the relays we are currently broadcasting events to in real time (if yo
 - wss://relay.snort.social
 - wss://nostr1.current.fyi
 - wss://relay.nostr.bg
-- wss://no.str.cr
+- wss://no.str.cr (down since 8/18)
 - wss://relay.plebstr.com 
 - wss://offchain.pub
 - wss://spore.ws
