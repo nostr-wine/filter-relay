@@ -59,7 +59,10 @@ These are the relays that we are currently aggregating events from in real time.
 - wss://nostr.bitcoiner.social
 - wss://spore.ws
 - wss://nostr21.com
+- wss://nostr.oxtr.dev
 - wss://nostr.bongbong.com
+- wss://relay.primal.net
+- wss://nostr.zbd.gg
 
 Last updated: August 30, 2023
 
