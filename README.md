@@ -1,5 +1,5 @@
 # filter.nostr.wine Relay Readme
-Last Updated: August 30, 2023
+Last Updated: September 5, 2023
 
 
 ## Subscription Required
@@ -63,8 +63,10 @@ These are the relays that we are currently aggregating events from in real time.
 - wss://nostr.bongbong.com
 - wss://relay.primal.net
 - wss://nostr.zbd.gg
+- wss://nostr-relay.nokotaro.com
+- wss://relayable.org
 
-Last updated: August 30, 2023
+Last updated: September 5, 2023
 
 We do not plan on adding paid relays. We like to think of those as their own little place that you can choose to be apart of or not individually. 
 
