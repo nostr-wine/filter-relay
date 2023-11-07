@@ -66,7 +66,7 @@ These are the relays that we are currently aggregating events from in real time.
 - wss://relayable.org
 - wss://public.relaying.io
 
-Last updated: September 19, 2023
+Last updated: November 7, 2023
 
 We do not plan on adding paid relays. We like to think of those as their own little place that you can choose to be apart of or not individually. 
 
@@ -86,7 +86,7 @@ These are the relays we are currently broadcasting events to in real time (if yo
 - wss://nostr.bitcoiner.social
 - wss://public.relaying.io
 
-Last updated: September 19, 2023
+Last updated: November 7, 2023
 
 ##
 
