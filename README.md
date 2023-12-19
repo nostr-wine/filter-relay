@@ -1,5 +1,5 @@
 # filter.nostr.wine Relay Readme
-Last Updated: November 7, 2023
+Last Updated: December 19, 2023
 
 
 ## Subscription Required
@@ -20,7 +20,15 @@ UPDATE: If your client supports NIP-42 (AUTH) you can now connect directly to ws
 
 ***IMPORTANT: you must replace REPLACE_WITH_YOUR_NPUB with your nostr npub (not hex) for the relay to accept you.***
 
-## What is it and why should I use it?
+## Why should I use this?
+
+- Improve performance and reliability (no duplicate notes, one high performance relay connection instead of 10+)
+- Reduce battery and data usage on mobile devices
+- Improve content discovery (see notes outside of your follows but still within your trusted network)
+- Reduce spam (by default "global" on filter.nostr.wine is limited to the accounts you follow + the accounts your followers follow)
+- Full text search of all aggregated notes (https://search.nostr.wine or NIP-50)
+
+## Why was this made?
 
 The purpose of this relay is to help bridge the gap between paid and public relays. Nostr users have started to experiment with adding more paid relays and removing some (or all) of their public relays. The problem with this approach is you start to lose content from users you are interested in as well as replies and profile metadata from anyone who does not share at least one of your remaining paid/public relays. In addition, some users you share relays with will not have all their posts or profile data load correctly because it may not all be present on the new paid relays. 
 
@@ -49,14 +57,12 @@ These are the relays that we are currently aggregating events from in real time.
 - wss://relay.damus.io
 - wss://nos.lol
 - wss://relay.snort.social
-- wss://nostr1.current.fyi
 - wss://nostr-pub.wellorder.net
 - wss://relay.nostr.bg
 - wss://nostr.mom
 - wss://relay.plebstr.com
 - wss://offchain.pub
 - wss://nostr.bitcoiner.social
-- wss://spore.ws
 - wss://nostr21.com
 - wss://nostr.oxtr.dev
 - wss://nostr.bongbong.com
@@ -65,8 +71,10 @@ These are the relays that we are currently aggregating events from in real time.
 - wss://nostr-relay.nokotaro.com
 - wss://relayable.org
 - wss://public.relaying.io
+- wss://nostr.fmt.wiz.biz
+- wss://socolo.nl
 
-Last updated: November 7, 2023
+Last updated: December 19, 2023
 
 We do not plan on adding paid relays. We like to think of those as their own little place that you can choose to be apart of or not individually. 
 
@@ -76,17 +84,17 @@ These are the relays we are currently broadcasting events to in real time (if yo
 
 - wss://relay.damus.io
 - wss://nos.lol
-- wss://relay.snort.social
-- wss://nostr1.current.fyi
+- wss://relay.snort.social (paid relay, may be removed)
 - wss://relay.nostr.bg
 - wss://relay.plebstr.com 
 - wss://offchain.pub
-- wss://spore.ws
 - wss://nostr21.com
 - wss://nostr.bitcoiner.social
 - wss://public.relaying.io
+- wss://nostr.fmt.wiz.biz
+- wss://socolo.nl
 
-Last updated: November 7, 2023
+Last updated: December 19, 2023
 
 ##
 
