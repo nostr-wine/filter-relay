@@ -1,5 +1,5 @@
 # filter.nostr.wine Relay Readme
-Last Updated: December 19, 2023
+Last Updated: February 23, 2024
 
 
 ## Subscription Required
@@ -73,8 +73,9 @@ These are the relays that we are currently aggregating events from in real time.
 - wss://public.relaying.io
 - wss://nostr.fmt.wiz.biz
 - wss://socolo.nl
+- wss://nostr.fractalized.net
 
-Last updated: December 19, 2023
+Last updated: February 23, 2024
 
 We do not plan on adding paid relays. We like to think of those as their own little place that you can choose to be apart of or not individually. 
 
@@ -84,17 +85,16 @@ These are the relays we are currently broadcasting events to in real time (if yo
 
 - wss://relay.damus.io
 - wss://nos.lol
-- wss://relay.snort.social (paid relay, may be removed)
 - wss://relay.nostr.bg
 - wss://relay.plebstr.com 
 - wss://offchain.pub
-- wss://nostr21.com
 - wss://nostr.bitcoiner.social
 - wss://public.relaying.io
 - wss://nostr.fmt.wiz.biz
 - wss://socolo.nl
+- wss://nostr.fractalized.net
 
-Last updated: December 19, 2023
+Last updated: February 23, 2024
 
 ##
 
