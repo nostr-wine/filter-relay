@@ -12,13 +12,9 @@ If you already know what this relay does and you're ready to connect here are th
 
 1. Go to https://nostr.wine and sign up for the paid relay by entering your pubkey and paying the invoice. You ***MUST*** be a paid nostr.wine member to access filter.nostr.wine. 
 2. Once admitted, add wss://nostr.wine to your relays. This relay is seperate and does not share events with the filter relay.
-3. Next, add wss://filter.nostr.wine/REPLACE_WITH_YOUR_NPUB?broadcast=true to your relays (broadcast parameter is optional and defaults to false)
-4. You can optionally add the global=all parameter. See [New Global Views](#new-global-views) for further details.
+3. Next, add wss://filter.nostr.wine to your relays. Your nostr client MUST support [NIP-42](https://github.com/nostr-protocol/nips/blob/master/42.md) for our relay to authenticate you as a paid user.
+4. You can optionally add the ?global=all parameter. See [New Global Views](#new-global-views) for further details.
 4. You're done! Play around with adding/removing various public relays to find your ideal global feed.
-
-UPDATE: If your client supports NIP-42 (AUTH) you can now connect directly to wss://filter.nostr.wine without your npub. The same parameters (broadcast and global) can still be used however <ins>broadcast will default to TRUE instead of FALSE</ins>. See [NIP-42 and NIP-50](#nip-42-and-nip-50) for more information.
-
-***IMPORTANT: you must replace REPLACE_WITH_YOUR_NPUB with your nostr npub (not hex) for the relay to accept you.***
 
 ## Why should I use this?
 
@@ -42,13 +38,11 @@ If you choose to include the ?broadcast=true parameter at the end the relay URL 
 
 ## New Global Views
 
-As of April 4, 2023 we now support a new parameter global=all (if missing it defaults to follows+follows) at the end of your relay URL. This will remove the follows+follows filter from your global view and show you all of the events we have aggregated using only a very basic spam filter. This view is considered experimental and without any guarantees at this time. Example: wss://filter.nostr.wine/YOUR_NPUB_HERE?broadcast=true&global=all
+As of April 4, 2023 we now support a new parameter global=all (if missing it defaults to follows+follows) at the end of your relay URL. This will remove the follows+follows filter from your global view and show you all of the events we have aggregated using only a very basic spam filter. This view is considered experimental and without any guarantees at this time. Example: wss://filter.nostr.wine?global=all
 
-## NIP-42 and NIP-50
+## NIP-50
 
-We now support both NIP-42 (client authentication) and NIP-50 (search) on filter.nostr.wine. If your client supports NIP-42 you can connect directly to wss://filter.nostr.wine without using the /npub addition. Please note the broadcast parameter will be set to TRUE by default when connecting directly without your npub.
-
-Keyword search is also available if your client supports NIP-50. No user configuration or changes are required.
+We support NIP-50 (search) on filter.nostr.wine. Keyword search is available if your client supports NIP-50. No user configuration or changes are required.
 
 ### Public Relays Read Filter List
 
