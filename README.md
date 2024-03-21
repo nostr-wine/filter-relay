@@ -69,6 +69,7 @@ These are the relays that we are currently aggregating events from in real time.
 - wss://nostr.fractalized.net
 - wss://relay.mutinywallet.com
 - wss://nostr.einundzwanzig.space
+- wss://relay.nostr.net
 
 Last updated: March 21, 2024
 
@@ -89,6 +90,7 @@ These are the relays we are currently broadcasting events to in real time.
 - wss://nostr.fractalized.net
 - wss://relay.mutinywallet.com
 - wss://nostr.einundzwanzig.space
+- wss://relay.nostr.net
 
 Last updated: March 21, 2024
 
