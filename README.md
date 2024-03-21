@@ -54,7 +54,6 @@ These are the relays that we are currently aggregating events from in real time.
 - wss://nostr-pub.wellorder.net
 - wss://relay.nostr.bg
 - wss://nostr.mom
-- wss://relay.plebstr.com
 - wss://offchain.pub
 - wss://nostr.bitcoiner.social
 - wss://nostr21.com
@@ -68,27 +67,30 @@ These are the relays that we are currently aggregating events from in real time.
 - wss://nostr.fmt.wiz.biz
 - wss://socolo.nl
 - wss://nostr.fractalized.net
+- wss://relay.mutinywallet.com
+- wss://nostr.einundzwanzig.space
 
-Last updated: February 23, 2024
+Last updated: March 21, 2024
 
 We do not plan on adding paid relays. We like to think of those as their own little place that you can choose to be apart of or not individually. 
 
 ### Public Relays Broadcast List
 
-These are the relays we are currently broadcasting events to in real time (if you include ?broadcast=true at the end of the filter.nostr.wine relay after your npub).
+These are the relays we are currently broadcasting events to in real time.
 
 - wss://relay.damus.io
 - wss://nos.lol
 - wss://relay.nostr.bg
-- wss://relay.plebstr.com 
 - wss://offchain.pub
 - wss://nostr.bitcoiner.social
 - wss://public.relaying.io
 - wss://nostr.fmt.wiz.biz
 - wss://socolo.nl
 - wss://nostr.fractalized.net
+- wss://relay.mutinywallet.com
+- wss://nostr.einundzwanzig.space
 
-Last updated: February 23, 2024
+Last updated: March 21, 2024
 
 ##
 
