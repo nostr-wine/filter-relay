@@ -1,5 +1,5 @@
 # filter.nostr.wine Relay Readme
-Last Updated: February 23, 2024
+Last Updated: March 21, 2024
 
 
 ## Subscription Required
