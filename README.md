@@ -1,5 +1,5 @@
 # filter.nostr.wine Relay Readme
-Last Updated: March 21, 2024
+Last Updated: April 10, 2024
 
 
 ## Subscription Required
@@ -46,7 +46,7 @@ We support NIP-50 (search) on filter.nostr.wine. Keyword search is available if 
 
 ### Public Relays Read Filter List
 
-These are the relays that we are currently aggregating events from in real time.
+These are the relays that we are currently aggregating events from in real time:
 
 - wss://relay.damus.io
 - wss://nos.lol
@@ -77,7 +77,9 @@ We do not plan on adding paid relays. We like to think of those as their own lit
 
 ### Public Relays Broadcast List
 
-These are the relays we are currently broadcasting events to in real time.
+Filter supports [NIP-65](https://github.com/nostr-protocol/nips/blob/master/65.md). Your events are automatically broadcasted to your first 4 "write" relays and the first 4 "read" relays from the first 5 tagged users. 
+
+In addition, these are the public relays Filter is currently broadcasting events to in real time:
 
 - wss://relay.damus.io
 - wss://nos.lol
@@ -92,7 +94,7 @@ These are the relays we are currently broadcasting events to in real time.
 - wss://nostr.einundzwanzig.space
 - wss://relay.nostr.net
 
-Last updated: March 21, 2024
+Last updated: April 10, 2024
 
 ##
 
