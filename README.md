@@ -1,5 +1,5 @@
 # filter.nostr.wine Relay Readme
-Last Updated: April 10, 2024
+Last Updated: June 24, 2024
 
 
 ## Subscription Required
@@ -34,7 +34,7 @@ Reduced reach is another problem. If you are no longer connected to some of the 
 
 filter.nostr.wine sits in front of our private aggregator relay that continuously pulls new content from many of the largest public relays. When you connect to our relay, we gather all of your follows as well as any account they follow and filter your global event requests to include only content from your web of contacts. When your client requests a note, a profile, available direct messages, or a channel, we pull all of the available related content from our aggregator (unfiltered). This allows you to load profiles and notes of users who do not share relays with you, receive DMs from those same users, as well as read all replies on a given note.
 
-If you choose to include the ?broadcast=true parameter at the end the relay URL after your npub, you will also be broadcasting to several large public relays when you send any events while connected to filter.nostr.wine. The list of public relays updates frequently based on connectivity. We plan to eventually publish live status updates on a website so you can see what is currently online and writing. For now, I will include and update the relays we read from and broadcast to below. 
+By default you will also be broadcasting to several large public relays when you send any events while connected to filter.nostr.wine. The list of public relays updates frequently based on connectivity. We publish a list of relays we read from and broadcast to at the bottom of this readme. If you wish to disable broadcasting, you can add the parameter broadcast=false to the relay url. Example: wss://filter.nostr.wine?broadcast=false
 
 ## New Global Views
 
@@ -66,12 +66,11 @@ These are the relays that we are currently aggregating events from in real time:
 - wss://public.relaying.io
 - wss://nostr.fmt.wiz.biz
 - wss://socolo.nl
-- wss://nostr.fractalized.net
 - wss://relay.mutinywallet.com
 - wss://nostr.einundzwanzig.space
 - wss://relay.nostr.net
 
-Last updated: March 21, 2024
+Last updated: June 24, 2024
 
 We do not plan on adding paid relays. We like to think of those as their own little place that you can choose to be apart of or not individually. 
 
@@ -89,12 +88,11 @@ In addition, these are the public relays Filter is currently broadcasting events
 - wss://public.relaying.io
 - wss://nostr.fmt.wiz.biz
 - wss://socolo.nl
-- wss://nostr.fractalized.net
 - wss://relay.mutinywallet.com
 - wss://nostr.einundzwanzig.space
 - wss://relay.nostr.net
 
-Last updated: April 10, 2024
+Last updated: June 24, 2024
 
 ##
 
