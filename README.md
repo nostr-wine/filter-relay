@@ -65,7 +65,7 @@ These are the relays that we are currently aggregating events from in real time:
 - wss://relayable.org
 - wss://public.relaying.io
 - wss://nostr.fmt.wiz.biz
-- wss://socolo.nl
+- wss://soloco.nl
 - wss://relay.mutinywallet.com
 - wss://nostr.einundzwanzig.space
 - wss://relay.nostr.net
@@ -87,7 +87,7 @@ In addition, these are the public relays Filter is currently broadcasting events
 - wss://nostr.bitcoiner.social
 - wss://public.relaying.io
 - wss://nostr.fmt.wiz.biz
-- wss://socolo.nl
+- wss://soloco.nl
 - wss://relay.mutinywallet.com
 - wss://nostr.einundzwanzig.space
 - wss://relay.nostr.net
