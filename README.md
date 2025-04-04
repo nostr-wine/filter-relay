@@ -36,6 +36,8 @@ filter.nostr.wine sits in front of our private aggregator relay that continuousl
 
 By default you will also be broadcasting to several large public relays when you send any events while connected to filter.nostr.wine. The list of public relays updates frequently based on connectivity. We publish a list of relays we read from and broadcast to at the bottom of this readme. If you wish to disable broadcasting, you can add the parameter broadcast=false to the relay url. Example: wss://filter.nostr.wine?broadcast=false
 
+**September 2024 Update:** Our new data pipeline [Purgatory](https://i.nostr.build/61SaCp4c3Ns5TjZu.png) was released to combat new user spam without losing coverage of real users.
+
 ## New Global Views
 
 As of April 4, 2023 we now support a new parameter global=all (if missing it defaults to follows+follows) at the end of your relay URL. This will remove the follows+follows filter from your global view and show you all of the events we have aggregated using only a very basic spam filter. This view is considered experimental and without any guarantees at this time. Example: wss://filter.nostr.wine?global=all
