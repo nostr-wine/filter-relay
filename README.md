@@ -1,5 +1,5 @@
 # filter.nostr.wine Relay Readme
-Last Updated: June 24, 2024
+Last Updated: April 4, 2025
 
 
 ## Subscription Required
@@ -50,27 +50,25 @@ These are the relays that we are currently aggregating events from in real time:
 
 - wss://relay.damus.io
 - wss://nos.lol
+- wss://e.nos.lol
 - wss://relay.snort.social
-- wss://nostr-pub.wellorder.net
-- wss://relay.nostr.bg
 - wss://nostr.mom
 - wss://offchain.pub
 - wss://nostr.bitcoiner.social
-- wss://nostr21.com
 - wss://nostr.oxtr.dev
-- wss://nostr.bongbong.com
 - wss://relay.primal.net
 - wss://nostr.zbd.gg
-- wss://nostr-relay.nokotaro.com
-- wss://relayable.org
-- wss://public.relaying.io
-- wss://nostr.fmt.wiz.biz
+- wss://purplepag.es
+- wss://purplerelay.com
 - wss://soloco.nl
-- wss://relay.mutinywallet.com
-- wss://nostr.einundzwanzig.space
 - wss://relay.nostr.net
+- wss://nostr.einundzwanzig.space
+- wss://relay.nos.social
+- wss://user.kindpag.es
+- wss://relay.nos.social
+- wss://eclipse.pub/relay
 
-Last updated: June 24, 2024
+Last updated: April 4, 2025
 
 We do not plan on adding paid relays. We like to think of those as their own little place that you can choose to be apart of or not individually. 
 
@@ -82,17 +80,14 @@ In addition, these are the public relays Filter is currently broadcasting events
 
 - wss://relay.damus.io
 - wss://nos.lol
-- wss://relay.nostr.bg
 - wss://offchain.pub
 - wss://nostr.bitcoiner.social
 - wss://public.relaying.io
-- wss://nostr.fmt.wiz.biz
 - wss://soloco.nl
-- wss://relay.mutinywallet.com
 - wss://nostr.einundzwanzig.space
 - wss://relay.nostr.net
 
-Last updated: June 24, 2024
+Last updated: April 4, 2025
 
 ##
 
