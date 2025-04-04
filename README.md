@@ -84,7 +84,7 @@ In addition, these are the public relays Filter is currently broadcasting events
 - wss://nos.lol
 - wss://offchain.pub
 - wss://nostr.bitcoiner.social
-- wss://public.relaying.io
+- wss://nostr.oxtr.dev
 - wss://soloco.nl
 - wss://nostr.einundzwanzig.space
 - wss://relay.nostr.net
