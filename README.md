@@ -1,5 +1,5 @@
 # filter.nostr.wine Relay Readme
-Last Updated: April 4, 2025
+Last Updated: June 16, 2025
 
 
 ## Subscription Required
@@ -48,29 +48,9 @@ We support NIP-50 (search) on filter.nostr.wine. Keyword search is available if 
 
 ### Public Relays Read Filter List
 
-These are the relays that we are currently aggregating events from in real time:
+Filter aggregates events from all known online public relays. Please keep in mind that this will not result in perfect coverage of the nostr network as some relays may not allow unrestricted indexing. We make a best faith effort to provide a full nostr network view. 
 
-- wss://relay.damus.io
-- wss://nos.lol
-- wss://e.nos.lol
-- wss://relay.snort.social
-- wss://nostr.mom
-- wss://offchain.pub
-- wss://nostr.bitcoiner.social
-- wss://nostr.oxtr.dev
-- wss://relay.primal.net
-- wss://nostr.zbd.gg
-- wss://purplepag.es
-- wss://purplerelay.com
-- wss://soloco.nl
-- wss://relay.nostr.net
-- wss://nostr.einundzwanzig.space
-- wss://relay.nos.social
-- wss://user.kindpag.es
-- wss://relay.nos.social
-- wss://eclipse.pub/relay
-
-Last updated: April 4, 2025
+Last updated: June 16, 2025
 
 We do not plan on adding paid relays. We like to think of those as their own little place that you can choose to be apart of or not individually. 
 
