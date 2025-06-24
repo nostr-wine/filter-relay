@@ -1,5 +1,5 @@
 # filter.nostr.wine Relay Readme
-Last Updated: June 16, 2025
+Last Updated: June 24, 2025
 
 
 ## Subscription Required
@@ -60,6 +60,7 @@ Filter supports [NIP-65](https://github.com/nostr-protocol/nips/blob/master/65.m
 
 In addition, these are the public relays Filter is currently broadcasting events to in real time:
 
+- 🍷 wss://nostr.wine
 - wss://relay.damus.io
 - wss://nos.lol
 - wss://offchain.pub
@@ -69,7 +70,7 @@ In addition, these are the public relays Filter is currently broadcasting events
 - wss://nostr.einundzwanzig.space
 - wss://relay.nostr.net
 
-Last updated: April 4, 2025
+Last updated: June 24, 2025
 
 ##
 
